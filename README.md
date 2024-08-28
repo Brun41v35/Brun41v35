@@ -1,6 +1,7 @@
 ### Hello World 🌎
 
-Hello my name is Bruno Alves. I am passionate about technology, photography also love to pass on my knowledge. 
+Hello my name is Bruno Alves.
+I am passionate about technology, photography also love sharing what I have learned. 
 Feel free in my Github!!! 🤙🏼
 
 - 💼 I’m currently working at Itaú
